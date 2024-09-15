@@ -63,4 +63,4 @@ Data used is from an open-sourced dataset site.
      ● Timer-Series Analysis
 
 ## Final Project Report
-[Tableau Analysis]([https://github.com/user-attachments/files/16486379/A4_final_report_Drew_Ballinger.xlsx](https://public.tableau.com/app/profile/drew.ballinger/viz/SuperstoreProjectAnalysis/SuperstoreOverview?publish=yes))
+[Tableau Analysis](https://github.com/user-attachments/files/16486379/A4_final_report_Drew_Ballinger.xlsx](https://public.tableau.com/app/profile/drew.ballinger/viz/SuperstoreProjectAnalysis/SuperstoreOverview?publish=yes)
