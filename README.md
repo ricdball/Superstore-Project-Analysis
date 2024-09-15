@@ -24,6 +24,7 @@ Superstore stakeholders are interested in the improving profits via increasing t
 ## Dataset
 Data used is from an open-sourced dataset site. 
 [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data).
+
 [Superstore Datatset](https://github.com/user-attachments/files/16486360/customers.csv)
 
 ## Project Tools
