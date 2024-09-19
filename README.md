@@ -5,10 +5,11 @@ An analysis aiming to analyze company revenue while forecasting the following ye
 Superstore stakeholders are interested in the improving profits via increasing the store's presence in their current regional markets and to improve the store's engagement and understanding with consumers. Stakeholders an indepth analysis of the company's revenue and how the company is performing with its regional markets and customers to develop better pricing and marketing strategies to improve overall profits. The company has asked for this as they have noticed profits in certain regions and product categories are resulting in negative figures and want to bring up company revenue in these poorly performing areas while also increasing its maximum revenue. 
 
 ## Key Questions
-1) What are the consumer purchasing patterns and buying behaviors based on product categories?
-2) Which regions have yielded to be the highest and lowest performing markets? Which regions based on performance appear to be the primary market base?
-3) Which customer segments contribute to the most profitable and what strategies can help to encourage better customer engagement and buyer loyalty?
-4) When are the peak sales performance and when does the store see its slowest profitable periods?
+1) What factors correlate a strong relationship in revenue? Do large orders/sales mean large profits? Do large discounts result in large orders for more revenue?
+2) Is revenue driven in a specific market region(s)? Which regions have yielded to be the highest and lowest performing markets? Which regions based on performance appear to be the primary market base?
+3) What customers drive the company's profits?
+4) Which products see less shelf time and more turnover for more revenue?
+5) How has Superstore's sales changed over time? What kind of trend does the company see in its sales and profits? Does the trend show any seasonality?
 
 ## Stakeholders
 ● Vice President of Marketing
@@ -63,4 +64,5 @@ Data used is from an open-sourced dataset site.
      ● Timer-Series Analysis
 
 ## Final Project Report
-[Superstore Tableau Storyboard Analysis](https://public.tableau.com/app/profile/drew.ballinger/viz/SuperstoreProjectAnalysis/SuperstoreOverview?publish=yes)
+[Superstore Tableau Storyboard Analysis](https://public.tableau.com/app/profile/drew.ballinger/viz/SuperstoreProjectAnalysis/SuperstoreProjectAnalysis)
+[Superstore Time Series and Cluster Analysis](https://public.tableau.com/app/profile/drew.ballinger/viz/SuperstoreRevenueFactorsAnalysis/Story1?publish=yes)
