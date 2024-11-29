@@ -5,11 +5,10 @@ An analysis aiming to analyze company revenue while forecasting the following ye
 Superstore specializes in selling a wide range of technology, office supplies, and furniture products. Stakeholders aim to boost profits by expanding the store’s presence in current regional markets and enhancing customer engagement. To achieve this, an in-depth analysis of revenue performance, regional markets, and customer behavior is needed to develop better pricing and marketing strategies. The company has identified certain regions and product categories with negative profit margins and seeks to address these issues while maximizing overall revenue growth. 
 
 ## Key Questions
-1) What factors correlate a strong relationship in revenue? Do large orders/sales mean large profits? Do large discounts result in large orders for more revenue?
-2) Is revenue driven in a specific market region(s)? Which regions have yielded to be the highest and lowest performing markets? Which regions based on performance appear to be the primary market base?
-3) What customers drive the company's profits?
-4) Which products see less shelf time and more turnover for more revenue?
-5) How has Superstore's sales changed over time? What kind of trend does the company see in its sales and profits? Does the trend show any seasonality?
+1) What are the consumer purchasing patterns and buying behaviors based on product categories?
+2) Which regions have yielded to be the highest and lowest performing markets? Which regions based on performance appear to be the primary market base?
+3) Which customer segments contribute to the most profitable and what strategies can help to encourage better customer engagement and buyer loyalty?
+4) When are the peak sales performance and when does the store see its slowest profitable periods?
 
 ## Stakeholders
 ● Vice President of Marketing
